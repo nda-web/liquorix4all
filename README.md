@@ -1,14 +1,12 @@
 # Liquorix4all
 "Universal installer script for Liquorix kernel on Debian, Ubuntu, and Arch-based Linux distributions."
 
-¡Claro! Para completar los formularios y detallar tu repositorio "liquorix4all" en GitHub, te recomiendo incluir información clara y bien organizada. Aquí tienes una guía para los elementos principales del repositorio:
-
 ---
 
 ### 1. **Título y Descripción del Repositorio**
    En la página principal del repositorio, debajo del nombre, agrega una breve descripción:
    - **Descripción:**  
-     _"Script universal para instalar el kernel Liquorix en cualquier distribución Linux basada en Debian, Ubuntu o Arch."_
+     _"**Liquorix4All** es un script universal diseñado para instalar el kernel Liquorix en diversas distribuciones Linux, incluyendo Debian, Ubuntu y Arch._
 
 ---
 
